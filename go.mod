@@ -1,4 +1,4 @@
-module image-sorter
+module github.com/vin-rmdn/image-sorter
 
 go 1.21
 
